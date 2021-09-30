@@ -7,3 +7,9 @@
    ![](./fig/linear_SMPC.png)
 
 2. Generalized Polynomial Chaos (gPC)
+
+   1. Results comparison between pseudo-projection and point collocation using sobol for the system$\frac{d x(t)}{d t}=-\theta x(t)+w(t), x(0)=1$, where $\theta \sim \mathcal{N}(0,1)$ and $w(t) \sim \mathcal{N}(0,1)$ in the paper  "An efficient method for stochastic optimal control with joint chance constraints for nonlinear systems"
+
+      ![](./fig/gPC_compare.png)
+
+   
