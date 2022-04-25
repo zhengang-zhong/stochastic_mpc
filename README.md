@@ -14,4 +14,4 @@
 
 
 3. Modified algorithm based on the paper "Nonlinear stochastic model predictive control via regularized polynomial chaos expansions"
-   1. <img src="/Users/zhengangzhong/Dropbox/code/py/MPC/stochastic_mpc/fig/Nonlinear_stochastic_model_predictive_control_via_regularized_polynomial_chaos_expansions.png" style="zoom:50%;" />
+   1. <img src="./fig/Nonlinear_stochastic_model_predictive_control_via_regularized_polynomial_chaos_expansions.png" style="zoom:50%;" />
